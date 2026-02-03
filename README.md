@@ -1,3 +1,3 @@
 # job-portal-api
 
-Job Portal API backend
+Job Portal API backend.
